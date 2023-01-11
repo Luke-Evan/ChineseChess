@@ -1,0 +1,4 @@
+D:/Codes/chess_project_2/cmake-build-debug/CMakeFiles/server.dir
+D:/Codes/chess_project_2/cmake-build-debug/CMakeFiles/client.dir
+D:/Codes/chess_project_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/chess_project_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

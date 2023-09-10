@@ -1,0 +1,4 @@
+
+=	cpp:S5421"!Global variables should be const.(Ñ¦Î8Œ·Ã€Û0
+^	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(ƒ£Óşÿÿÿÿ8Œ·Ã€Û0
+B	cpp:S5421"!Global variables should be const.(ƒ£Óşÿÿÿÿ8Œ·Ã€Û0

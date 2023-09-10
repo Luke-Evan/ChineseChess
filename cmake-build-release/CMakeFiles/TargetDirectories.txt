@@ -1,0 +1,5 @@
+D:/Programming/Codes/c/chess_project_2/cmake-build-release/CMakeFiles/server.dir
+D:/Programming/Codes/c/chess_project_2/cmake-build-release/CMakeFiles/chess_red.dir
+D:/Programming/Codes/c/chess_project_2/cmake-build-release/CMakeFiles/chess_black.dir
+D:/Programming/Codes/c/chess_project_2/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/Programming/Codes/c/chess_project_2/cmake-build-release/CMakeFiles/rebuild_cache.dir

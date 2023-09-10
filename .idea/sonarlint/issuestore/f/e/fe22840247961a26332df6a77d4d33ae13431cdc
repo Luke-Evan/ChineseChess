@@ -1,0 +1,9 @@
+
+S	cpp:S5945"2Use "std::string" instead of a C-style char array.(²Ššôúÿÿÿÿ8÷’ÿÚ0
+W	cpp:S5416
+";"using" should be preferred to "typedef" for type aliasing.(³°´Ö8÷’ÿÚ0
+J	cpp:S5421".Global Pointer should be const at every level.(Âàú8÷’ÿÚ0
+=	cpp:S5421"!Global variables should be const.(¬ê8÷’ÿÚ0
+=	cpp:S5421"!Global variables should be const.(©Ï­û8÷’ÿÚ0
+cpp:S995"aMake the type of this parameter a pointer-to-const. The current type of "ptr" is "struct NODE *".(Ãß‰àşÿÿÿÿ8÷’ÿÚ0
+5	cpp:S4962"Use the "nullptr" literal.(Œ‚¨C8÷’ÿÚ0

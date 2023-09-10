@@ -1,4 +1,10 @@
-C:\Users\Estrella\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Estrella/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe -G Ninja -S D:\Codes\chess_project_2 -B D:\Codes\chess_project_2\cmake-build-debug
+D:\Programming\Tools\Toolbox\apps\CLion\ch-0\231.9161.40\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Programming/Tools/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Programming\Codes\c\chess_project_2 -B D:\Programming\Codes\c\chess_project_2\cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/Programming/Tools/Toolbox/apps/CLion/ch-0/231.9161.40/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Codes/chess_project_2/cmake-build-debug
+-- Build files have been written to: D:/Programming/Codes/c/chess_project_2/cmake-build-debug

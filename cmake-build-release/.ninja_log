@@ -1,0 +1,7 @@
+# ninja log v5
+2	593	6982188516808871	CMakeFiles/server.dir/src/server.c.obj	252befea0b82c02a
+2	1421	6982188299085278	CMakeFiles/chess_black.dir/src/chess_black.c.obj	74a879becd8a38a
+593	718	6982188518028937	server.exe	d98cf38b7654c07e
+1422	1570	6982188300542592	chess_black.exe	7e76f2f9142cc109
+4	1344	6982188394926633	CMakeFiles/chess_red.dir/src/chess_red.c.obj	e51bd021c0ed9b25
+1344	1472	6982188396190970	chess_red.exe	a625304c892634d6
